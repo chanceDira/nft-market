@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nft-market/static/css/main.88031aac.css",
+    "main.js": "/nft-market/static/js/main.95de43e2.js",
+    "static/media/logo.png": "/nft-market/static/media/logo.4764d5b602aed704dc6b.png",
+    "index.html": "/nft-market/index.html",
+    "main.88031aac.css.map": "/nft-market/static/css/main.88031aac.css.map",
+    "main.95de43e2.js.map": "/nft-market/static/js/main.95de43e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88031aac.css",
+    "static/js/main.95de43e2.js"
+  ]
+}
